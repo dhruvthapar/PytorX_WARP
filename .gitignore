@@ -14,4 +14,4 @@ dnn_data_parser.py
 overleaf.txt
 dnn_data.py
 git_commands.txt
-.gitignore
+*.gitignore
