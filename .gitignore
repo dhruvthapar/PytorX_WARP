@@ -1,0 +1,15 @@
+*.pth
+*.zip
+data/
+trained_models/
+venv/
+.vscode/
+.idea/
+imgs/
+cifar-10/
+__pycache__/
+*.log
+dnn_data_backup.py
+dnn_data_parser.py
+overleaf.txt
+dnn_data.py
